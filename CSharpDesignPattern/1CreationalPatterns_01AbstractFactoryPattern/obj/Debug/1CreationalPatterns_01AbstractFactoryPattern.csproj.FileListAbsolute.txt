@@ -1,0 +1,6 @@
+D:\0. Working\1. Project\tudm_DesignPatterns\trunk\CSharpDesignPattern\1CreationalPatterns_01AbstractFactoryPattern\bin\Debug\1CreationalPatterns_01AbstractFactoryPattern.exe.config
+D:\0. Working\1. Project\tudm_DesignPatterns\trunk\CSharpDesignPattern\1CreationalPatterns_01AbstractFactoryPattern\bin\Debug\1CreationalPatterns_01AbstractFactoryPattern.exe
+D:\0. Working\1. Project\tudm_DesignPatterns\trunk\CSharpDesignPattern\1CreationalPatterns_01AbstractFactoryPattern\bin\Debug\1CreationalPatterns_01AbstractFactoryPattern.pdb
+D:\0. Working\1. Project\tudm_DesignPatterns\trunk\CSharpDesignPattern\1CreationalPatterns_01AbstractFactoryPattern\obj\Debug\1CreationalPatterns_01AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+D:\0. Working\1. Project\tudm_DesignPatterns\trunk\CSharpDesignPattern\1CreationalPatterns_01AbstractFactoryPattern\obj\Debug\1CreationalPatterns_01AbstractFactoryPattern.exe
+D:\0. Working\1. Project\tudm_DesignPatterns\trunk\CSharpDesignPattern\1CreationalPatterns_01AbstractFactoryPattern\obj\Debug\1CreationalPatterns_01AbstractFactoryPattern.pdb
