@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3BehavioralPatterns_10Visit
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{9B2255F0-58FF-4E5A-9DC5-DB64F5F0054A}"
 	ProjectSection(SolutionItems) = preProject
+		0Document\1CreationalPatterns_01AbstractFactoryPattern.docx = 0Document\1CreationalPatterns_01AbstractFactoryPattern.docx
+		0Document\1CreationalPatterns_02BuilderPattern.docx = 0Document\1CreationalPatterns_02BuilderPattern.docx
 		Tempt.txt = Tempt.txt
 	EndProjectSection
 EndProject
