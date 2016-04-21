@@ -47,12 +47,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3BehavioralPatterns_09Templ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3BehavioralPatterns_10VisitorPattern", "3BehavioralPatterns_10VisitorPattern\3BehavioralPatterns_10VisitorPattern.csproj", "{CAB0DE01-B178-4EC4-B0D5-E13CE4FB7079}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{9B2255F0-58FF-4E5A-9DC5-DB64F5F0054A}"
-	ProjectSection(SolutionItems) = preProject
-		0Document\1CreationalPatterns_01AbstractFactoryPattern.docx = 0Document\1CreationalPatterns_01AbstractFactoryPattern.docx
-		0Document\1CreationalPatterns_02BuilderPattern.docx = 0Document\1CreationalPatterns_02BuilderPattern.docx
-		Tempt.txt = Tempt.txt
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Document", "01Document\01Document.csproj", "{02BAEB08-D16A-4172-AAF6-A19E119992B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -148,6 +143,10 @@ Global
 		{CAB0DE01-B178-4EC4-B0D5-E13CE4FB7079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB0DE01-B178-4EC4-B0D5-E13CE4FB7079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB0DE01-B178-4EC4-B0D5-E13CE4FB7079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BAEB08-D16A-4172-AAF6-A19E119992B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BAEB08-D16A-4172-AAF6-A19E119992B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BAEB08-D16A-4172-AAF6-A19E119992B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BAEB08-D16A-4172-AAF6-A19E119992B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

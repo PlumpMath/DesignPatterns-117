@@ -1,0 +1,28 @@
+Link design patterns: https://csharpdesignpatterns.codeplex.com/
+
+List project name:
+	1CreationalPatterns_01AbstractFactoryPattern
+	1CreationalPatterns_02BuilderPattern
+	1CreationalPatterns_03FatoryMethodPattern
+	1CreationalPatterns_04PrototypePattern
+	1CreationalPatterns_05SingletonPattern
+
+	2StructuralPatterns_01AdapterPattern
+	2StructuralPatterns_02BridgePattern
+	2StructuralPatterns_03CompositePattern
+	2StructuralPatterns_04DecoratorPattern
+	2StructuralPatterns_05FacadePattern
+	2StructuralPatterns_06FlyweightPattern
+	2StructuralPatterns_07ProxyPattern
+
+	3BehavioralPatterns_01ChainOfResponsibilityPattern
+	3BehavioralPatterns_02CommandPattern
+	3BehavioralPatterns_03InterpreterPattern
+	3BehavioralPatterns_04IteratorPattern
+	3BehavioralPatterns_05MediatorPattern
+	3BehavioralPatterns_06ObserverPattern
+	3BehavioralPatterns_07StatePattern
+	3BehavioralPatterns_08StrategyPattern
+	3BehavioralPatterns_09TemplateMethodPattern
+	3BehavioralPatterns_10VisitorPattern
+
